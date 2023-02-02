@@ -26,4 +26,4 @@ We have sniffed an unsecured network and found numbers that are used to encrypt 
 
 ### AUTHOR
 
-- [Nicks](https://github.com/nickssilver) :smiley_cat:
+- [Nicks](https://github.com/okothmax) :smiley_cat:
